@@ -30,7 +30,7 @@ export const portfolioConfig = {
     primaryButton: { text: "Explore 3D Work", link: "#projects" },
     secondaryButton: {
       text: "Resume (PDF)",
-      link: "https://drive.google.com/drive/folders/1dyKq5DFf3BVvfBR8mJ9BQngxu0UIRL0A?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
+      link: "https://drive.google.com/file/d/1ueHsZNF4fV0y0uTEViPAymTxCHqTzc4k/view?usp=drivesdk",
     },
     terminalAnimation: [
       "Java Full-Stack Developer",
