@@ -143,4 +143,4 @@ This project is a personal portfolio. Please contact the author before reusing p
 
 - **Author:** Prashant Ranjan
 - **GitHub:** [@PrashantRanjan-2006](https://github.com/PrashantRanjan-2006)
-- **Portfolio:** [My-Portfolio1](https://github.com/PrashantRanjan-2006/My-Portfolio1)
+- **Portfolio:** [My-Portfolio1](https://my-portfolio1-bh8v.vercel.app/)
